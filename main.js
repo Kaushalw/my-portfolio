@@ -62,7 +62,7 @@ alert(name+' '+'please wait....');
 function popup(){
 document.getElementById("popup").style.visibility="visible";
 }
-setTimeout(popup,2000);
+setTimeout(popup,9000);
 
 
 function hide(){
