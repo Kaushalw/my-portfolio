@@ -11,6 +11,7 @@ body{
 
     
 }
+body::-webkit-scrollbar {  width: 1em;  height: 1rem;}body::-webkit-scrollbar-track {  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);}body::-webkit-scrollbar-thumb {  background-color: #36B393;  outline: 1px solid #36B393;  height: 5px;}
 body{
             background: url("/1651163918539.jpg")
    ;
