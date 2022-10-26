@@ -43,6 +43,11 @@ body{
          display: none;
  }
 /*_____________next about section______________*/
+    @media(min-width:481px){
+     .menu-btn{
+         display:none;   
+        }
+    }
 .logo{
     
   font-size: 27px;
