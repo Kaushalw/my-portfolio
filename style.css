@@ -35,14 +35,14 @@ body{
 /*.kp{
         background-image: url("/IMG_20220427_144948.jpg");
 
-/*-------Media Query-----*/
+/*-------Media Query-----
 
 @media(max-width: 480px) {
 
  .bodyinpc {
          display: none;
  }
-/*_____________next about section______________*/
+_____________next about section______________*/
     @media(min-width:481px){
      .menu-btn{
          display:none;   
