@@ -59,7 +59,7 @@ body{
   }
 nav ul {
 position: fixed;
-    top: 10%;
+    top: 8%;
     left: -100%;
 background:#000000;
     height: 100vh;
